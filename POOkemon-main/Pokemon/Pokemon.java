@@ -1,15 +1,19 @@
 import java.util.Random;
 
+// Herança - * Pokemon * herda atributos de * EntidadeBatalha *
 public class Pokemon extends EntidadeBatalha {
+    // Encapsulamento - * atributos privados *
     private String tipo;
     private Ataque[] listaAtaques;
 
+    // Construtor da classe * Pokemon *
     public Pokemon(String nome, String tipo, int hp, Ataque[] listaAtaques) {
         super(nome, hp);
         this.tipo = tipo;
         this.listaAtaques = listaAtaques;
     }
 
+    // Polimorfismo
     @Override
     public void realizarAtaque(EntidadeBatalha oponente) {
         if (oponente instanceof Pokemon) {
