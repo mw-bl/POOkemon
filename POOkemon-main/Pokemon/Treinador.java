@@ -1,13 +1,17 @@
+// Herança - * Treinador * recebe atributos de  * EntidadeBatalha *
 public class Treinador extends EntidadeBatalha {
+    // Encapsulamento - * atributos privados *
     private Pokemon[] equipe;
     private int pokemonAtivo;
 
+    // Construtor da classe * Treinador *
     public Treinador(String nome, Pokemon[] equipe) {
         super(nome, equipe[0].getHP());
         this.equipe = equipe;
         this.pokemonAtivo = 0;
     }
 
+    // Polimorfismo
     @Override
     public void realizarAtaque(EntidadeBatalha oponente) {
         System.out.println(getNome() + " está atacando!");
