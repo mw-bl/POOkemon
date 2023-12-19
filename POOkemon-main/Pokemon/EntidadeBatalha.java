@@ -1,7 +1,9 @@
 public abstract class EntidadeBatalha {
+    // Encapsulamento - * atributos privados *
     private String nome;
     private int hp;
 
+    // Construtor da classe * EntidadeBatalha *
     public EntidadeBatalha(String nome, int hp) {
         this.nome = nome;
         this.hp = hp;
@@ -16,6 +18,7 @@ public abstract class EntidadeBatalha {
         }
     }
 
+    // getters da classe * EntidadeBatalha *
     public int getHP() {
         return hp;
     }
