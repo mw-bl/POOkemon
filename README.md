@@ -20,6 +20,7 @@ Armas:
 Cada pokemon possui o seu HP máximo e seus ataques.
 
 Segue um exemplo:
+![carbon(1)](https://github.com/mw-bl/POOkemon/assets/115299182/e77f1fbe-cd7f-4153-8642-728ce153bb92)
 
 Perda de Vida e Derrota:
 
