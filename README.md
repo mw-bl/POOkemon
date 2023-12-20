@@ -44,7 +44,7 @@
 ![carbon(2)](https://github.com/mw-bl/POOkemon/assets/115299182/c5a46bcb-b0ee-412b-9caa-147fbcd3f3ab)
 
 <div align = "center">
-<h3> Desenvolvido por:
+<h4> Desenvolvido por:
   
 <br> 👨🏽‍💻 Marcos Willian
 <br> 👩🏻‍💻 Maria Eduarda Aires
