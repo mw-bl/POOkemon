@@ -11,7 +11,7 @@
 </div>
 
 #### `Descrição do Jogo:`
-#### É um jogo para desafiar outros treinadores e fortalecer os laços com seus Pokémon!
+#### É um jogo para desafiar outros treinadores em uma batalha Pokémon!
 
 #### `Conceitos de POO Aplicados:`
 
