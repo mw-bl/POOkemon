@@ -47,7 +47,7 @@
 
 ### Segue um exemplo:
 
-![carbon(1)](https://github.com/mw-bl/POOkemon/assets/115299182/e77f1fbe-cd7f-4153-8642-728ce153bb92)
+![carbon (6)](https://github.com/mw-bl/POOkemon/assets/115299182/6edfee6a-5286-4907-8eaf-572031da5aa5)
 
 ### `Perda de Vida e Derrota:`
 ### A cada ataque recebido, um personagem perde uma quantidade de vida com base no dano da arma do oponente. Quando a vida de um personagem chega a zero, ele é derrotado e o oponente é declarado vencedor da batalha.
