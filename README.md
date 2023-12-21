@@ -10,36 +10,53 @@
 <img src="https://github.com/mw-bl/POOkemon/assets/115299182/f761597e-c67f-4408-a99b-e73db56ade9b" width = "600px">
 </div>
 
-#### `Descrição do Jogo:`
-#### É um jogo para desafiar outros treinadores em uma batalha Pokémon!
+### `Descrição do Jogo:`
+### É um jogo para desafiar outro treinador em uma batalha Pokémon!
 
-#### `Conceitos de POO Aplicados:`
+### `Conceitos de POO Aplicados:`
+### - Herança:
+<div align = "center">
+<img src="https://github.com/mw-bl/POOkemon/assets/115299182/abc552bd-bb9a-4efe-befd-d82d7aa401be">
+</div>
 
-![carbon](https://github.com/mw-bl/POOkemon/assets/115299182/7ce57df7-d924-4842-8eab-2d6fc2ee36ac)
+### - Polimorfismo:
+<div align = "center">
+<img src="https://github.com/mw-bl/POOkemon/assets/115299182/2da1351e-f784-4cff-af1f-e1f416d60f11">
+</div>
 
-#### `Funcionalidades do Jogo:`
+### - Encapsulamento:
+<div align = "center">
+<img src="https://github.com/mw-bl/POOkemon/assets/115299182/a75c7aaf-74bc-45ad-a62f-d73de623973b">
+</div>
 
-#### **Seleção de Personagens:**
-#### O jogo é uma representação de uma batalha pokemon e nele o jogador é transformado em um treinador pokemon onde deve adotar um nome treinador e começa o jogo com o seu pokemon inicial.
+### - Construtores:
+<div align = "center">
+<img src="https://github.com/mw-bl/POOkemon/assets/115299182/7153b494-d9f8-4d5d-84e6-b5105ed1dc1b">
+</div>
 
-#### **Seleção de Armas:**
-#### Após escolher o seu nome pokemon, os treinadores podem selecionar o ataque do seu respectivo pokemon inicial para serem usados na batalha.
+### `Funcionalidades do Jogo:`
 
-#### **Armas:**
-#### Cada pokemon possui o seu HP máximo e seus ataques.
+### - Seleção de Personagens:
+### O jogo é uma representação de uma batalha pokemon e nele o jogador é transformado em um treinador pokemon onde deve adotar um nome treinador e começa o jogo com o seu pokemon inicial.
 
-#### Segue um exemplo:
+### - Seleção de Armas:
+### Após escolher o seu nome pokemon, os treinadores podem selecionar o ataque do seu respectivo pokemon inicial para serem usados na batalha.
+
+### - Armas:
+### Cada pokemon possui o seu HP máximo e seus ataques.
+
+### Segue um exemplo:
 
 ![carbon(1)](https://github.com/mw-bl/POOkemon/assets/115299182/e77f1fbe-cd7f-4153-8642-728ce153bb92)
 
-#### `Perda de Vida e Derrota:`
-#### A cada ataque recebido, um personagem perde uma quantidade de vida com base no dano da arma do oponente. Quando a vida de um personagem chega a zero, ele é derrotado e o oponente é declarado vencedor da batalha.
+### `Perda de Vida e Derrota:`
+### A cada ataque recebido, um personagem perde uma quantidade de vida com base no dano da arma do oponente. Quando a vida de um personagem chega a zero, ele é derrotado e o oponente é declarado vencedor da batalha.
 
-#### `Estratégia e Decisões dos Jogadores:`
-#### Durante a batalha, os jogadores podem optar por atacar com diferentes armas, usar poderes estrategicamente ou até mesmo se defender de ataques inimigos. A escolha das armas e poderes em cada turno pode ser decisiva para determinar o vencedor da batalha.
+### `Estratégia e Decisões dos Jogadores:`
+### Durante a batalha, os jogadores podem optar por atacar com diferentes armas, usar poderes estrategicamente ou até mesmo se defender de ataques inimigos. A escolha das armas e poderes em cada turno pode ser decisiva para determinar o vencedor da batalha.
 
-#### `Resultados da Batalha:`
-#### Ao final da batalha, será exibido o resultado, indicando o vencedor, a quantidade de vida restante de cada personagem e os pontos ganhos durante a batalha.
+### `Resultados da Batalha:`
+### Ao final da batalha, será exibido o resultado, indicando o vencedor, a quantidade de vida restante de cada personagem e os pontos ganhos durante a batalha.
 
 ![carbon(2)](https://github.com/mw-bl/POOkemon/assets/115299182/c5a46bcb-b0ee-412b-9caa-147fbcd3f3ab)
 
