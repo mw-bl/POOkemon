@@ -1,5 +1,5 @@
 <div align = "center">
-<h3> Curso Bacharelado em Sistemas de Informação
+<h2> Curso Bacharelado em Sistemas de Informação
 <br>Programação Orientada a Objetos 
   
 <br>Atividade Avaliativa
@@ -58,10 +58,10 @@
 ### `Resultados da Batalha:`
 ### Ao final da batalha, será exibido o resultado, indicando o vencedor, a quantidade de vida restante de cada personagem e os pontos ganhos durante a batalha.
 
-![carbon(2)](https://github.com/mw-bl/POOkemon/assets/115299182/c5a46bcb-b0ee-412b-9caa-147fbcd3f3ab)
+![carbon (7)](https://github.com/mw-bl/POOkemon/assets/115299182/380ed6a6-b06b-42d7-bc00-8f6ad77f4c05)
 
 <div align = "center">
-<h4> Desenvolvido por:
+<h3> Desenvolvido por:
   
 <br> 👨🏽‍💻 Marcos Willian
 <br> 👩🏻‍💻 Maria Eduarda Aires
