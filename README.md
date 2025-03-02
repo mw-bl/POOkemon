@@ -1,13 +1,6 @@
 <div align = "center">
-<h2> Curso Bacharelado em Sistemas de Informação
-<br>Programação Orientada a Objetos 
-  
-<br>Atividade Avaliativa
-<br> POOkémon 
-</div>
-
-<div align = "center">
-<img src="https://github.com/mw-bl/POOkemon/assets/115299182/f761597e-c67f-4408-a99b-e73db56ade9b" width = "600px">
+<h2> POOkémon <h2>
+<br>Programação Orientada a Objetos
 </div>
 
 ### `📄Descrição do Jogo:`
